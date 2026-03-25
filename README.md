@@ -1,10 +1,28 @@
-- 👋 Hi, I’m apol bernardo
-- 👀 I’m interested in problems and deep conversation about anything 
-- 🌱 I’m currently learning as Data Analytics
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me LinkedIn to see my profile
+# Hi, I'm Apol Bernardo 👋
 
-<!---
-apolbernardo/apolbernardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Junior Data Analyst** | Python, SQL, Power BI, Excel
+
+I enjoy turning raw data into clear, actionable insights. Currently strengthening my skills through hands-on projects in different industries such as retail and healthcare..
+### About Me
+- Focused on Exploratory Data Analysis, data cleaning, and delivering meaningful findings.
+- Open to **Junior Data Analyst (WFH)** opportunities.
+- Always learning and improving my technical and analytical skills.
+
+### Skills
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Databases**: SQL (PostgreSQL, MySQL)
+- **Visualization & Tools**: Power BI, Excel, Google Sheets
+- **Core Skills**: Data Cleaning & Imputation, Grouped Analysis, Descriptive & Inferential Statistics
+
+### Current Learning Focus
+- Building end-to-end data analysis projects (Retail + Healthcare)
+- Improving code organization and storytelling with data
+- Preparing for Junior Data Analyst roles
+
+### Let's Connect
+- LinkedIn: [Rosa Paulina Bernardo](https://www.linkedin.com/in/rosa-paulina-bernardo/)
+- Email: apolbernardo1@gmail.com
+
+---
+
+*Last updated: April 2026*
