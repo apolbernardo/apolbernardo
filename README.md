@@ -25,6 +25,6 @@ I enjoy turning raw data into clear, actionable insights. Currently strengthenin
 
 ## 📄 Resume
 
-**[📥 Download My Resume (PDF)](Apol-Bernardo-Resume.pdf)**---
+**[📥 Download My Resume (PDF)](Updated Junior Data Analyst Resume.pdf)**---
 
 *Last updated: April 2026*
