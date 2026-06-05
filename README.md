@@ -25,6 +25,5 @@ I enjoy turning raw data into clear, actionable insights. Currently strengthenin
 
 ## 📄 Resume
 
-**[📥 Download My Resume (PDF)](Updated Junior Data Analyst Resume.pdf)**---
-
+**[📥 Download My Resume (PDF)](Updated%20Junior%20Data%20Analyst%20Resume.pdf)**
 *Last updated: April 2026*
