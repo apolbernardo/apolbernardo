@@ -23,6 +23,8 @@ I enjoy turning raw data into clear, actionable insights. Currently strengthenin
 - LinkedIn: [Rosa Paulina Bernardo](https://www.linkedin.com/in/rosa-paulina-bernardo/)
 - Email: apolbernardo1@gmail.com
 
----
+## 📄 Resume
+
+**[📥 Download My Resume (PDF)](Apol-Bernardo-Resume.pdf)**---
 
 *Last updated: April 2026*
